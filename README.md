@@ -6,4 +6,7 @@ TypeScript framework - React
 Temp dependencies for NestJS:
 @nestjs/config
 @nestjs/cli
-nest new transcendence
+Create nestJS project:
+	nest new transcendence
+Add new packages with:
+	npm install --save <package-name>
